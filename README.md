@@ -12,10 +12,14 @@
         (transformer)
 
 ### 論文
-- 
+- Attention Is All You Need
+
+        Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
+        https://arxiv.org/abs/1706.03762
 
 
 ### 出てきた疑問
+
 - 
 
 ## bert_lesson

@@ -17,8 +17,11 @@
         Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
         https://arxiv.org/abs/1706.03762
 
+###　わかっていること
+
 
 ### 出てきた疑問
+指数関数を使って何かを行う層があるが、その存在意義がわからない。
 
 - 
 
@@ -36,6 +39,9 @@
 
         Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
         https://arxiv.org/abs/1810.04805
+
+### わかっていること
+基本原理はtransformerとほぼ一緒。事前学習のタスクを追加して、それをencorderのパラメータにしている。
 
 ### 出てきた疑問
 
